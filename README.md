@@ -7,7 +7,7 @@
 - 🛠 Tools: Docker, Git, VS Code
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ying2368&show_icons=true&theme=tokyonight)
 
 <!--
 **ying2368/ying2368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
