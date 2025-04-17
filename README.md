@@ -1,10 +1,12 @@
 ### Hi there, I'm Orli👋
 
+<!--
 ## 🔧 Tech Stack
 - 💻 Languages: Python, JavaScript, C++
 - 🧠 AI/ML: PyTorch, scikit-learn
 - 🌐 Web: React, Node.js
 - 🛠 Tools: Docker, Git, VS Code
+-->
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ying2368&show_icons=true&theme=tokyonight)
