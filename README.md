@@ -1,4 +1,4 @@
-## Hi there, I'm Orli👋
+### Hi there, I'm Orli👋
 
 ## 🔧 Tech Stack
 - 💻 Languages: Python, JavaScript, C++
