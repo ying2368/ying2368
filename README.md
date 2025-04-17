@@ -1,5 +1,5 @@
 ### Hi there, I'm Orli👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+I'm+YourName;AI+Enthusiast+%7C+Data+Explorer;Open+Source+Lover+%7C+CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Orli;AI+Enthusiast+%7C+Data+Explorer;Open+Source+Lover+%7C+CS+Student)](https://git.io/typing-svg)
 <!--
 ## 🔧 Tech Stack
 - 💻 Languages: Python, JavaScript, C++
