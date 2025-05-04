@@ -1,4 +1,8 @@
 ### Hi there, I'm Orli👋
+- I’m a computer science student at Yuan Ze University (YZU).
+- I’m passionate web development, artificial intelligence, and system-level programming. 
+- I have experience in full-stack development (frontend + backend), image processing using OpenCV, and deploying LLM-based chatbots. 
+- I’ve also worked with web scraping tools and hardware description languages.  
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Orli+😆;Open+Source+Lover+%7C+CS+Student;Nice+to+nice+you!)](https://git.io/typing-svg)
