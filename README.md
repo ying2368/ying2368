@@ -1,4 +1,4 @@
-### Hi there, I'm Orli👋
+### Hi there👋
 - I’m a computer science student at Yuan Ze University (YZU).
 - I’m passionate web development, artificial intelligence, and system-level programming. 
 - I have experience in full-stack development (frontend + backend), image processing using OpenCV, and deploying LLM-based chatbots. 
@@ -44,7 +44,7 @@
 ### ☁️ Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 📈 GitHub Stats
+## ⭐ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ying2368&show_icons=true&theme=tokyonight)
 
 <!--
