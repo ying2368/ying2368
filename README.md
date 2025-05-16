@@ -45,8 +45,8 @@
 </p>
 
 ## ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ying2368&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ying2368&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ying2368&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ying2368&layout=compact&theme=noctis_minimus)
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ying2368&theme=noctis_minimus)
 
 <!--
