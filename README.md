@@ -58,6 +58,6 @@ Here’s a little about what I do:
 
 ## ⭐ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ying2368&show_icons=true&theme=noctis_minimus)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ying2368&layout=compact&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ying2368&layout=compact&theme=noctis_minimus&exclude_repo=112-2)
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ying2368&theme=noctis_minimus)
 
