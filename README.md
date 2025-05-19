@@ -61,6 +61,9 @@ Here’s a little about what I do:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ying2368&layout=compact&theme=noctis_minimus&exclude_repo=112-2)
 ![Github stats card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ying2368&theme=noctis_minimus)
 
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ying2368" alt="ying2368" />
 </p>
+
+-->
